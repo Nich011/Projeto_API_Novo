@@ -1,0 +1,22 @@
+{
+  "name": "projeto_api_novo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx ts-node ./src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/typescript": "^2.0.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.5"
+  }
+}
